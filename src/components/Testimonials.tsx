@@ -22,7 +22,7 @@ const testimonialData = [
     id: 3,
     name: "Adrian C",
     position: "Cliente desde 2025",
-    quote: "Los reocmiendo porque tienen muchisimos modelos y precios super accesibles",
+    quote: "Los recomiendo porque tienen muchisimos modelos y precios super accesibles",
     avatar: "https://cdn-icons-png.flaticon.com/512/149/149071.png"
   }
 ];
